@@ -1,0 +1,7 @@
+numpy
+matplotlib
+geopandas
+xarray
+pandas
+rasterio
+bamboolib
